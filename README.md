@@ -8,7 +8,7 @@ This repository includes the artifacts for the ASPLOS 2024 submission #161.
 
 ## Appendix
 
-As ASPLOS 2024 does not permit appendices in submitted papers, we are including the full Appendix of our paper [here](https://github.com/Verilock-ASPLOS/Verilock/blob/main/appendix/Verilock.pdf).
+As ASPLOS 2024 does not permit appendices in submitted papers, we are including the full Appendix of our paper [here](https://github.com/Verilock-ASPLOS/Verilock/blob/main/appendix/Appendix.pdf).
 
 ## Reproducing experimental results
 
