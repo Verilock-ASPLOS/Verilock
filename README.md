@@ -1,6 +1,14 @@
 # Verilock
 
-This repository includes the artifacts for the ASPLOS 2024 submission #161. `Verilock.jar` is the executable jar of Verilock. `cases` folder includes the cases collected from the previous literature and automatically synthesized asynchronous circuits.
+This repository includes the artifacts for the ASPLOS 2024 submission #161. 
+
+- `appendix`folder includes the `Appendix.pdf`.
+- `cases` folder includes the cases collected from the previous literature and automatically synthesized asynchronous circuits.
+- `Verilock.jar` is the executable jar of Verilock. 
+
+## Appendix
+
+As ASPLOS 2024 does not permit appendices in submitted papers, we are including the full Appendix of our paper [here](https://github.com/Verilock-ASPLOS/Verilock/blob/main/appendix/Verilock.pdf).
 
 ## Reproducing experimental results
 
